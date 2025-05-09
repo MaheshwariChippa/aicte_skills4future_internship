@@ -23,6 +23,4 @@ This repository contains the submission for **Week 1** of the Machine Learning c
 - `Week1_Colab_Notebook.ipynb` – Google Colab notebook with basic data loading and exploration.
 - `README.md` – This file.
 
-## 🔗 Submission
 
-- Please submit the **link to this GitHub repo** on the LMS as your Week 1 submission.
